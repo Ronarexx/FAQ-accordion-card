@@ -1,3 +1,3 @@
 # FAQ-accordion-card
 
-An awewome-looking FAQ-accordion-card for frontend Mentor.
+An awesome-looking FAQ-accordion-card for frontend Mentor.
