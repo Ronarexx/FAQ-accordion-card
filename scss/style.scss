@@ -26,7 +26,7 @@ body {
   background-repeat: no-repeat;
   background-size: 200% 200%;
   margin: auto auto;
-  // height: 100vh;
+  height: 100vh;
   @media only screen and (max-width: 1000px){
      padding: 1.5rem 0;
   }
@@ -34,11 +34,15 @@ body {
 
 .container {
   margin: 0 auto;
-  // width: 100vw;
+  width: 100vw;
   height: 100vh;
   display: grid;
   justify-content: center;
   align-content: center;
+  @media only screen and (max-width: 1000px){
+    width: 100%;
+    padding: 12rem 0;
+  }
 }
 
 .showcase {
