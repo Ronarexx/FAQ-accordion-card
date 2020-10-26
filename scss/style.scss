@@ -27,9 +27,9 @@ body {
   background-size: 200% 200%;
   margin: auto auto;
   height: 100vh;
-  @media only screen and (max-width: 1000px){
-     padding: 1.5rem 0;
-  }
+  // @media only screen and (max-width: 1000px){
+  //    padding: 1.5rem 0;
+  // }
 }
 
 .container {
@@ -41,7 +41,7 @@ body {
   align-content: center;
   @media only screen and (max-width: 1000px){
     width: 100%;
-    padding: 12rem 0;
+    margin-top: 6rem;
   }
 }
 
